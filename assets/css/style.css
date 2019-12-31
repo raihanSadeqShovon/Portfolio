@@ -1,0 +1,30 @@
+button.owl-next {
+  position: absolute;
+  top: 35%;
+  right: 150px;
+  margin-bottom: 0px;
+}
+svg {
+  padding-top: 5px;
+}
+button.owl-prev {
+  position: absolute;
+  top: 35%;
+  left: 150px;
+  margin: 0px;
+}
+.text-center {
+  margin-bottom: 0px;
+}
+@media (min-width: 576px) {
+  .jumbotron {
+    padding: 4rem 2rem 1rem 2rem !important;
+  }
+}
+.form-inline {
+  justify-content: flex-end;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
