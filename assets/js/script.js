@@ -2,8 +2,6 @@ $(".owl-carousel").owlCarousel({
   loop: true,
   margin: 10,
   nav: true,
-  autoWidth: true,
-  autoHeight: true,
   autoplay: true,
   autoplayTimeout: 3000,
   smartSpeed: 500,
